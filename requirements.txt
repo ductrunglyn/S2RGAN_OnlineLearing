@@ -1,0 +1,14 @@
+# Python packages imported by JSTT_OnlineLearning.ipynb
+# (google.colab is provided by the Colab runtime and is not listed here).
+#
+# The exact versions used for the reported experiments were not recorded.
+# The lower bounds are the minimum versions that provide the APIs the notebook calls:
+#   tensorflow >= 2.8      tf.config.experimental.enable_op_determinism
+#   scikit-image >= 0.19   structural_similarity(..., channel_axis=...)
+tensorflow>=2.8
+keras
+numpy
+scikit-image>=0.19
+opencv-python
+pandas
+matplotlib
